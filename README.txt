@@ -1,1 +1,1 @@
--- initial version
+-- Oracle repository contains usefull SQL scripts and packages
